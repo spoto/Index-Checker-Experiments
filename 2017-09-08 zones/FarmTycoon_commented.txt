@@ -1,0 +1,9 @@
+TA (options[1] was possibly meant to be options[pos]): domain/Farm.java:175: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: domain/Inventory.java:103: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: domain/Inventory.java:118: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: domain/Inventory.java:141: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: domain/Inventory.java:154: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: domain/Inventory.java:204: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: domain/Inventory.java:205: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: domain/Inventory.java:209: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method, keys and vals might have distinct length): persistence/DBmap.java:49: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array

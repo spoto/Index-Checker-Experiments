@@ -1,0 +1,5 @@
+FA (i is never negative): org/slot10/group75/mediaPlayer/PlayQueue.java:178: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (i is never negative): org/slot10/group75/mediaPlayer/PlayQueue.java:210: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (getStackTrace() might return empty array): org/slot10/group75/mediaPlayer/gui/GUIHandler.java:206: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method): org/slot10/group75/mediaPlayer/gui/PlayQueueTableModel.java:47: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: org/slot10/group75/mediaPlayer/gui/UsersManageList.java:91: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array

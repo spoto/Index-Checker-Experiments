@@ -1,0 +1,834 @@
+TA (public method and constructor of PropertyStorage): jxl/biff/BaseCompoundFile.java:184: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of PropertyStorage): jxl/biff/BaseCompoundFile.java:185: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of PropertyStorage): jxl/biff/BaseCompoundFile.java:193: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of PropertyStorage): jxl/biff/BaseCompoundFile.java:194: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of PropertyStorage): jxl/biff/BaseCompoundFile.java:197: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of PropertyStorage): jxl/biff/BaseCompoundFile.java:198: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of PropertyStorage): jxl/biff/BaseCompoundFile.java:199: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of PropertyStorage): jxl/biff/BaseCompoundFile.java:200: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of PropertyStorage): jxl/biff/BaseCompoundFile.java:202: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of PropertyStorage): jxl/biff/BaseCompoundFile.java:203: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of PropertyStorage): jxl/biff/BaseCompoundFile.java:204: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of PropertyStorage): jxl/biff/BaseCompoundFile.java:205: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of PropertyStorage): jxl/biff/BaseCompoundFile.java:231: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/BaseCompoundFile.java:255: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (exception before): jxl/biff/BaseCompoundFile.java:267: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (exception before): jxl/biff/BaseCompoundFile.java:333: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/biff/ByteArray.java:73: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/biff/ConditionalFormatRangeRecord.java:202: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/biff/ConditionalFormatRangeRecord.java:203: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/biff/ConditionalFormatRangeRecord.java:204: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/biff/ConditionalFormatRangeRecord.java:205: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/biff/ConditionalFormatRangeRecord.java:206: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (widening?): jxl/biff/ConditionalFormatRangeRecord.java:213: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+?? (several reads at this line; first one is FA): jxl/biff/ConditionalFormatRangeRecord.java:214: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (several reads at this line; first one is FA): jxl/biff/ConditionalFormatRangeRecord.java:215: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (several reads at this line; first one is FA): jxl/biff/ConditionalFormatRangeRecord.java:216: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (several reads at this line; first one is FA): jxl/biff/ConditionalFormatRangeRecord.java:217: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of DVParser): jxl/biff/DVParser.java:331: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of DVParser): jxl/biff/DVParser.java:349: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of DVParser): jxl/biff/DVParser.java:350: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of DVParser): jxl/biff/DVParser.java:365: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of DVParser): jxl/biff/DVParser.java:366: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of DVParser): jxl/biff/DVParser.java:381: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of DVParser): jxl/biff/DVParser.java:382: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of DVParser): jxl/biff/DVParser.java:397: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of DVParser): jxl/biff/DVParser.java:398: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of DVParser): jxl/biff/DVParser.java:413: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of DVParser): jxl/biff/DVParser.java:418: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of DVParser): jxl/biff/DVParser.java:425: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of DVParser): jxl/biff/DVParser.java:428: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of DVParser): jxl/biff/DVParser.java:431: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of DVParser): jxl/biff/DVParser.java:434: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/DVParser.java:743: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/biff/DVParser.java:752: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/biff/DVParser.java:761: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/biff/DVParser.java:770: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (public method and constructor of DValParser): jxl/biff/DValParser.java:72: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of DValParser): jxl/biff/DValParser.java:78: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of DValParser): jxl/biff/DValParser.java:79: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of DValParser): jxl/biff/DValParser.java:80: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/biff/DataValidityListRecord.java:61: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/biff/DataValidityListRecord.java:62: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/DoubleHelper.java:43: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/DoubleHelper.java:44: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/DoubleHelper.java:45: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/DoubleHelper.java:46: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/DoubleHelper.java:77: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/DoubleHelper.java:78: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/DoubleHelper.java:79: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/DoubleHelper.java:80: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/DoubleHelper.java:81: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/DoubleHelper.java:82: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/DoubleHelper.java:83: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/DoubleHelper.java:84: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/FontRecord.java:144: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/FontRecord.java:146: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/FontRecord.java:147: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/FontRecord.java:148: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/FontRecord.java:149: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/FontRecord.java:150: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/FontRecord.java:151: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/FontRecord.java:164: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/FontRecord.java:165: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/FontRecord.java:194: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/FontRecord.java:196: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/FontRecord.java:197: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/FontRecord.java:198: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/FontRecord.java:199: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/FontRecord.java:200: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/FontRecord.java:213: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/FontRecord.java:254: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/FontRecord.java:259: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/FontRecord.java:272: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/biff/FontRecord.java:275: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/biff/FontRecord.java:278: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/biff/FontRecord.java:281: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/biff/FontRecord.java:284: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/biff/FontRecord.java:286: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/FormatRecord.java:153: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/FormatRecord.java:158: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/FormatRecord.java:159: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/FormatRecord.java:170: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/FormatRecord.java:213: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/biff/FormatRecord.java:537: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/IndexMapping.java:58: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/IndexMapping.java:68: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/IntegerHelper.java:129: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/IntegerHelper.java:130: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/IntegerHelper.java:144: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/IntegerHelper.java:145: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/IntegerHelper.java:146: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/IntegerHelper.java:147: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (widening?): jxl/biff/PaletteRecord.java:118: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (widening?): jxl/biff/PaletteRecord.java:118: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA*: jxl/biff/PaletteRecord.java:119: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA*: jxl/biff/PaletteRecord.java:120: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/PaletteRecord.java:133: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/PaletteRecord.java:138: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/PaletteRecord.java:139: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/PaletteRecord.java:140: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/PaletteRecord.java:141: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/biff/PaletteRecord.java:211: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/WorkspaceInformationRecord.java:71: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/XFRecord.java:363: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/XFRecord.java:364: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (widening?): jxl/biff/XFRecord.java:372: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/XFRecord.java:375: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/XFRecord.java:395: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (index may be negative?): jxl/biff/XFRecord.java:1349: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (index may be negative?): jxl/biff/XFRecord.java:1351: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/XFRecord.java:1365: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/XFRecord.java:1381: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/XFRecord.java:1398: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/XFRecord.java:1413: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/XFRecord.java:1420: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/XFRecord.java:1426: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/XFRecord.java:1434: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/XFRecord.java:1440: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/drawing/BStoreContainer.java:89: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/BlipStoreEntry.java:81: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/BlipStoreEntry.java:82: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (tricky): jxl/biff/drawing/BlipStoreEntry.java:128: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (tricky): jxl/biff/drawing/BlipStoreEntry.java:131: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (tricky): jxl/biff/drawing/BlipStoreEntry.java:149: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (tricky): jxl/biff/drawing/BlipStoreEntry.java:152: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (tricky): jxl/biff/drawing/BlipStoreEntry.java:155: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (tricky): jxl/biff/drawing/BlipStoreEntry.java:156: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (tricky): jxl/biff/drawing/BlipStoreEntry.java:159: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (tricky): jxl/biff/drawing/BlipStoreEntry.java:160: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/Button.java:238: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/Button.java:801: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (REAL BUG since file is arbitrary): jxl/biff/drawing/Chart.java:193: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (REAL BUG since file is arbitrary): jxl/biff/drawing/Chart.java:194: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (REAL BUG since file is arbitrary): jxl/biff/drawing/Chart.java:200: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (REAL BUG since file is arbitrary): jxl/biff/drawing/Chart.java:206: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (REAL BUG since file is arbitrary): jxl/biff/drawing/Chart.java:212: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (REAL BUG since file is arbitrary): jxl/biff/drawing/Chart.java:218: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (REAL BUG since file is arbitrary): jxl/biff/drawing/Chart.java:222: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (REAL BUG since file is arbitrary): jxl/biff/drawing/Chart.java:223: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/CheckBox.java:239: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/ClientAnchor.java:77: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/ClientAnchor.java:80: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/ClientAnchor.java:81: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/ClientAnchor.java:86: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/ClientAnchor.java:87: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/ClientAnchor.java:92: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/ClientAnchor.java:93: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/ClientAnchor.java:98: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/ClientAnchor.java:99: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/ComboBox.java:214: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/Comment.java:266: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/drawing/Comment.java:771: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/Comment.java:845: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/Dg.java:60: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/Dg.java:61: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/Dgg.java:107: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/Dgg.java:109: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/Dgg.java:111: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/Dgg.java:113: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/Dgg.java:118: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/Dgg.java:119: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/Drawing.java:331: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/Drawing.java:341: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method has no modifier, index as method argument may be negative?): jxl/biff/drawing/DrawingData.java:216: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/DrawingGroup.java:237: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/DrawingGroup.java:313: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/DrawingGroup.java:319: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/DrawingGroup.java:536: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/EscherRecordData.java:99: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/EscherRecordData.java:108: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/EscherRecordData.java:111: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/EscherRecordData.java:112: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (widening?): jxl/biff/drawing/EscherRecordType.java:77: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/NoteRecord.java:68: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/NoteRecord.java:69: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/NoteRecord.java:70: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (widening?): jxl/biff/drawing/ObjRecord.java:87: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/ObjRecord.java:143: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/ObjRecord.java:152: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/Opt.java:124: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/Opt.java:126: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/Opt.java:127: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (since pngData is from arbitrary file): jxl/biff/drawing/PNGReader.java:62: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (since pngData is from arbitrary file): jxl/biff/drawing/PNGReader.java:63: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (since pngData is from arbitrary file): jxl/biff/drawing/PNGReader.java:64: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (since pngData is from arbitrary file): jxl/biff/drawing/PNGReader.java:65: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (since pngData is from arbitrary file): jxl/biff/drawing/PNGReader.java:66: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (since pngData is from arbitrary file): jxl/biff/drawing/PNGReader.java:67: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (since pngData is from arbitrary file): jxl/biff/drawing/PNGReader.java:68: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (since pngData is from arbitrary file): jxl/biff/drawing/PNGReader.java:69: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/PNGReader.java:85: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/PNGReader.java:86: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/PNGReader.java:91: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA: jxl/biff/drawing/PNGReader.java:141: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/drawing/SheetDrawingWriter.java:156: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/biff/drawing/SheetDrawingWriter.java:175: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/SheetDrawingWriter.java:215: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/SheetDrawingWriter.java:216: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/SheetDrawingWriter.java:217: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/SheetDrawingWriter.java:218: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (REAL BUG?): jxl/biff/drawing/SheetDrawingWriter.java:245: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA: jxl/biff/drawing/SheetDrawingWriter.java:277: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/drawing/SheetDrawingWriter.java:358: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/biff/drawing/SheetDrawingWriter.java:367: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/biff/drawing/SheetDrawingWriter.java:373: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/biff/drawing/SheetDrawingWriter.java:374: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA: jxl/biff/drawing/SheetDrawingWriter.java:391: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/SheetDrawingWriter.java:405: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/SheetDrawingWriter.java:406: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/SheetDrawingWriter.java:407: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/SheetDrawingWriter.java:408: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA: jxl/biff/drawing/SheetDrawingWriter.java:415: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/drawing/SheetDrawingWriter.java:437: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA: jxl/biff/drawing/SheetDrawingWriter.java:454: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/Sp.java:66: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/Sp.java:67: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/Sp.java:68: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/drawing/TextObjectRecord.java:70: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/Area.java:157: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/Area.java:158: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/Area.java:159: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/Area.java:163: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/Area3d.java:195: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/Area3d.java:196: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/Area3d.java:197: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/Area3d.java:198: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/Area3d.java:202: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/Attribute.java:118: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/Attribute.java:119: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/Attribute.java:212: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/Attribute.java:228: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/Attribute.java:290: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/Attribute.java:302: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/BinaryOperator.java:75: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/BinaryOperator.java:90: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/BinaryOperator.java:107: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/BinaryOperator.java:124: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/BinaryOperator.java:141: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/BinaryOperator.java:158: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/BinaryOperator.java:215: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/BinaryOperator.java:216: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/BooleanValue.java:60: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/BuiltInFunction.java:80: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/formula/BuiltInFunction.java:105: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/BuiltInFunction.java:126: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/BuiltInFunction.java:131: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/CellReference.java:103: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/CellReference.java:104: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/CellReference3d.java:133: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/CellReference3d.java:134: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/CellReference3d.java:135: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/ErrorConstant.java:60: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/formula/FormulaErrorCode.java:93: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/IntegerValue.java:82: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/MemArea.java:62: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/NameRange.java:95: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/Parenthesis.java:62: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/Parenthesis.java:76: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/Parenthesis.java:92: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/Parenthesis.java:108: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/Parenthesis.java:124: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/Parenthesis.java:140: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/Parenthesis.java:151: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/Parenthesis.java:173: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/Percent.java:42: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/Percent.java:54: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/SharedFormulaArea.java:89: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/SharedFormulaArea.java:90: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/SharedFormulaArea.java:92: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/SharedFormulaArea.java:107: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/SharedFormulaCellReference.java:85: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/SharedFormulaCellReference.java:87: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/formula/StringFormulaParser.java:419: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/StringValue.java:77: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/StringValue.java:80: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/formula/StringValue.java:102: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/biff/formula/StringValue.java:103: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/biff/formula/StringValue.java:104: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/SubExpression.java:57: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/formula/Token.java:122: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/formula/Token.java:133: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (REAL BUG?): jxl/biff/formula/Token.java:144: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (REAL BUG?): jxl/biff/formula/Token.java:155: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (since tokenData is arbitrary): jxl/biff/formula/TokenFormulaParser.java:149: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/formula/TokenFormulaParser.java:442: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/UnaryOperator.java:67: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/UnaryOperator.java:80: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/UnaryOperator.java:96: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/UnaryOperator.java:112: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/UnaryOperator.java:128: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/UnaryOperator.java:144: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/UnaryOperator.java:156: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/VariableArgFunction.java:94: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/VariableArgFunction.java:95: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/formula/VariableArgFunction.java:124: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/VariableArgFunction.java:139: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/VariableArgFunction.java:144: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/biff/formula/VariableArgFunction.java:151: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/biff/formula/Yylex.java:94: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+?? (method is private): jxl/biff/formula/Yylex.java:132: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+?? (method is private): jxl/biff/formula/Yylex.java:226: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+?? (method is private): jxl/biff/formula/Yylex.java:272: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/biff/formula/Yylex.java:376: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (method is public): jxl/biff/formula/Yylex.java:498: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/formula/Yylex.java:584: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/formula/Yylex.java:613: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/formula/Yylex.java:624: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/formula/Yylex.java:639: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/formula/Yylex.java:659: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/formula/Yylex.java:662: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/formula/Yylex.java:666: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/biff/formula/Yylex.java:679: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:30: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:30: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:31: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:31: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:32: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:32: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:33: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:33: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:36: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:36: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:37: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:37: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:38: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:38: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:41: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:41: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:42: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:42: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:43: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:43: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:46: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:46: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:47: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:47: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:48: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:48: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:51: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:51: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:52: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:52: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:53: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (?): jxl/common/LengthConverter.java:53: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (method is public): jxl/common/LengthConverter.java:58: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/demo/BiffDump.java:307: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/demo/BiffDump.java:324: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA: jxl/demo/Demo.java:115: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA: jxl/demo/Demo.java:120: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA: jxl/demo/Demo.java:125: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA: jxl/demo/Demo.java:130: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA: jxl/demo/Demo.java:135: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA: jxl/demo/Demo.java:140: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA: jxl/demo/Demo.java:145: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA: jxl/demo/Demo.java:150: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA: jxl/demo/Demo.java:165: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA: jxl/demo/Demo.java:166: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (widening?): jxl/format/Colour.java:150: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public, cal may be negative): jxl/format/PaperSize.java:85: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (widening?): jxl/format/ScriptStyle.java:96: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (widening?): jxl/format/UnderlineStyle.java:95: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/BOFRecord.java:81: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/BOFRecord.java:82: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/BooleanFormulaRecord.java:86: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/BooleanFormulaRecord.java:88: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/BooleanRecord.java:59: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/BoundsheetRecord.java:69: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/BoundsheetRecord.java:70: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/BoundsheetRecord.java:72: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/BoundsheetRecord.java:74: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/BoundsheetRecord.java:102: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/BoundsheetRecord.java:103: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/BoundsheetRecord.java:105: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/CalcModeRecord.java:51: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/CellValue.java:95: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/CellValue.java:96: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/CellValue.java:97: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/CentreRecord.java:44: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/CodepageRecord.java:51: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/ColumnInfoRecord.java:82: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/ColumnInfoRecord.java:83: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/ColumnInfoRecord.java:84: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/ColumnInfoRecord.java:85: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/ColumnInfoRecord.java:87: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of CompoundFile): jxl/read/biff/CompoundFile.java:114: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of CompoundFile): jxl/read/biff/CompoundFile.java:122: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of CompoundFile): jxl/read/biff/CompoundFile.java:123: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of CompoundFile): jxl/read/biff/CompoundFile.java:124: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of CompoundFile): jxl/read/biff/CompoundFile.java:125: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of CompoundFile): jxl/read/biff/CompoundFile.java:127: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of CompoundFile): jxl/read/biff/CompoundFile.java:128: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of CompoundFile): jxl/read/biff/CompoundFile.java:129: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of CompoundFile): jxl/read/biff/CompoundFile.java:130: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of CompoundFile): jxl/read/biff/CompoundFile.java:137: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of CompoundFile): jxl/read/biff/CompoundFile.java:138: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of CompoundFile): jxl/read/biff/CompoundFile.java:139: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of CompoundFile): jxl/read/biff/CompoundFile.java:140: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of CompoundFile): jxl/read/biff/CompoundFile.java:142: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of CompoundFile): jxl/read/biff/CompoundFile.java:143: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of CompoundFile): jxl/read/biff/CompoundFile.java:144: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of CompoundFile): jxl/read/biff/CompoundFile.java:145: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/read/biff/CompoundFile.java:160: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (public method and constructor of CompoundFile): jxl/read/biff/CompoundFile.java:161: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/read/biff/CompoundFile.java:173: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (public method and constructor of CompoundFile): jxl/read/biff/CompoundFile.java:174: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (public method and constructor of CompoundFile): jxl/read/biff/CompoundFile.java:182: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/read/biff/CompoundFile.java:204: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/read/biff/CompoundFile.java:208: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/read/biff/CompoundFile.java:209: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/read/biff/CompoundFile.java:246: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/read/biff/CompoundFile.java:247: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/read/biff/CompoundFile.java:252: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/read/biff/CompoundFile.java:493: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/read/biff/CompoundFile.java:531: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/read/biff/CompoundFile.java:573: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/CountryRecord.java:57: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/CountryRecord.java:58: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/DefaultColumnWidthRecord.java:45: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/DefaultRowHeightRecord.java:47: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/DimensionRecord.java:95: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/DimensionRecord.java:96: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/DimensionRecord.java:105: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/DimensionRecord.java:106: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/ErrorFormulaRecord.java:90: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/ErrorFormulaRecord.java:92: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/ErrorRecord.java:50: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/ExternalNameRecord.java:61: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/ExternalNameRecord.java:73: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/ExternalNameRecord.java:75: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/ExternalSheetRecord.java:94: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/ExternalSheetRecord.java:109: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/ExternalSheetRecord.java:110: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/ExternalSheetRecord.java:111: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (widening?): jxl/read/biff/ExternalSheetRecord.java:112: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (method is public): jxl/read/biff/ExternalSheetRecord.java:148: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/read/biff/ExternalSheetRecord.java:159: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/read/biff/ExternalSheetRecord.java:170: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/FooterRecord.java:59: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/FooterRecord.java:61: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/FormulaRecord.java:89: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/FormulaRecord.java:202: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/FormulaRecord.java:208: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/FormulaRecord.java:209: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/FormulaRecord.java:216: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/FormulaRecord.java:217: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/GuttersRecord.java:45: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/GuttersRecord.java:46: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/GuttersRecord.java:47: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/GuttersRecord.java:48: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HeaderRecord.java:66: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HeaderRecord.java:68: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HideobjRecord.java:50: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HorizontalPageBreaksRecord.java:60: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HorizontalPageBreaksRecord.java:66: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HorizontalPageBreaksRecord.java:82: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HorizontalPageBreaksRecord.java:87: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/read/biff/HorizontalPageBreaksRecord.java:87: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HyperlinkRecord.java:117: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HyperlinkRecord.java:118: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HyperlinkRecord.java:119: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HyperlinkRecord.java:120: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HyperlinkRecord.java:125: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HyperlinkRecord.java:133: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HyperlinkRecord.java:134: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HyperlinkRecord.java:145: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HyperlinkRecord.java:146: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HyperlinkRecord.java:158: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HyperlinkRecord.java:167: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HyperlinkRecord.java:186: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HyperlinkRecord.java:187: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HyperlinkRecord.java:188: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HyperlinkRecord.java:189: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HyperlinkRecord.java:248: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HyperlinkRecord.java:249: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HyperlinkRecord.java:250: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HyperlinkRecord.java:251: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HyperlinkRecord.java:252: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HyperlinkRecord.java:253: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/HyperlinkRecord.java:277: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/LabelRecord.java:63: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/LabelRecord.java:65: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/LabelRecord.java:89: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/LabelSSTRecord.java:55: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/MergedCellsRecord.java:50: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/MergedCellsRecord.java:62: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/MergedCellsRecord.java:63: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/MergedCellsRecord.java:64: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/MergedCellsRecord.java:65: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (widening?): jxl/read/biff/MergedCellsRecord.java:67: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/MulBlankRecord.java:68: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/MulBlankRecord.java:69: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/MulBlankRecord.java:70: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/MulBlankRecord.java:87: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/read/biff/MulBlankRecord.java:87: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (method is public): jxl/read/biff/MulBlankRecord.java:129: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/MulRKRecord.java:72: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/MulRKRecord.java:73: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/MulRKRecord.java:74: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/MulRKRecord.java:93: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/read/biff/MulRKRecord.java:93: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/MulRKRecord.java:95: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? jxl/read/biff/MulRKRecord.java:96: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (method is public): jxl/read/biff/MulRKRecord.java:139: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/read/biff/MulRKRecord.java:150: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:208: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:209: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:210: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:214: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:229: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:231: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:232: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:233: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:254: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:255: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:256: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:258: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:264: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:303: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:304: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:305: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:307: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:313: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:377: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:378: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:389: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:391: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:392: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:393: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:409: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:410: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:411: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:413: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:414: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:449: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:450: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:451: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:453: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NameRecord.java:454: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/NineteenFourRecord.java:45: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/PaneRecord.java:56: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/PaneRecord.java:57: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/PasswordRecord.java:50: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/PrintGridLinesRecord.java:44: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/PrintHeadersRecord.java:44: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/ProtectRecord.java:45: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/RKRecord.java:68: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/RStringRecord.java:63: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method has no modifier): jxl/read/biff/Record.java:79: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method has no modifier): jxl/read/biff/Record.java:80: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (widening?): jxl/read/biff/Record.java:128: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/RefreshAllRecord.java:50: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/RowRecord.java:87: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/RowRecord.java:88: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/RowRecord.java:90: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/RowRecord.java:91: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SCLRecord.java:51: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SCLRecord.java:52: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SSTRecord.java:117: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SSTRecord.java:118: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SSTRecord.java:119: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SSTRecord.java:120: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SSTRecord.java:148: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SSTRecord.java:150: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SSTRecord.java:162: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SSTRecord.java:170: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/read/biff/SSTRecord.java:192: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/read/biff/SSTRecord.java:262: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SSTRecord.java:303: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SSTRecord.java:311: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SSTRecord.java:319: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SSTRecord.java:331: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SSTRecord.java:339: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SSTRecord.java:353: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SSTRecord.java:361: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SSTRecord.java:365: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SSTRecord.java:365: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SSTRecord.java:384: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SSTRecord.java:384: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SSTRecord.java:393: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public, index may be negative): jxl/read/biff/SSTRecord.java:427: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SaveRecalcRecord.java:51: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SetupRecord.java:119: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SetupRecord.java:120: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SetupRecord.java:121: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SetupRecord.java:122: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SetupRecord.java:123: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SetupRecord.java:124: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SetupRecord.java:125: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SetupRecord.java:126: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SharedFormulaRecord.java:108: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SharedFormulaRecord.java:109: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SharedFormulaRecord.java:110: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SharedFormulaRecord.java:111: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/read/biff/SharedFormulaRecord.java:184: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/read/biff/SharedFormulaRecord.java:209: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SharedStringFormulaRecord.java:113: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SharedStringFormulaRecord.java:124: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/read/biff/SheetImpl.java:356: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/read/biff/SheetImpl.java:361: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/read/biff/SheetImpl.java:515: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/read/biff/SheetImpl.java:556: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/read/biff/SheetImpl.java:630: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/read/biff/SheetImpl.java:635: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (method is public, index may be negative): jxl/read/biff/SheetImpl.java:642: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (widening?): jxl/read/biff/SheetImpl.java:813: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SheetImpl.java:882: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+?? (method has no modifier): jxl/read/biff/SheetImpl.java:889: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SheetReader.java:305: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SheetReader.java:313: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SheetReader.java:313: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SheetReader.java:1492: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SheetReader.java:1552: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SheetReader.java:1554: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SheetReader.java:1890: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SheetReader.java:1906: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SortRecord.java:54: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SortRecord.java:64: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SortRecord.java:65: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SortRecord.java:66: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SortRecord.java:68: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SortRecord.java:81: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SortRecord.java:98: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/StringFormulaRecord.java:168: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/StringFormulaRecord.java:176: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SupbookRecord.java:99: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/SupbookRecord.java:110: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SupbookRecord.java:127: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SupbookRecord.java:130: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SupbookRecord.java:133: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SupbookRecord.java:136: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SupbookRecord.java:152: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SupbookRecord.java:170: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SupbookRecord.java:172: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (method is public): jxl/read/biff/SupbookRecord.java:224: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SupbookRecord.java:251: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SupbookRecord.java:257: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SupbookRecord.java:302: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (method is private): jxl/read/biff/SupbookRecord.java:308: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/VerticalPageBreaksRecord.java:60: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/VerticalPageBreaksRecord.java:66: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/VerticalPageBreaksRecord.java:82: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/VerticalPageBreaksRecord.java:87: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA (widening?): jxl/read/biff/VerticalPageBreaksRecord.java:87: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/Window2Record.java:86: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/Window2Record.java:95: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/Window2Record.java:96: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/Window2Record.java:111: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/WindowProtectedRecord.java:50: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/WorkbookParser.java:1035: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+?? (probably FA): jxl/read/biff/WriteAccessRecord.java:55: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/BoundsheetRecord.java:92: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/BoundsheetRecord.java:96: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/BoundsheetRecord.java:105: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/BoundsheetRecord.java:106: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/CompoundFile.java:612: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/CompoundFile.java:892: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/CompoundFile.java:951: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/CompoundFile.java:965: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/CompoundFile.java:1020: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/write/biff/CompoundFile.java:1047: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/write/biff/CompoundFile.java:1049: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/write/biff/CompoundFile.java:1078: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/write/biff/CompoundFile.java:1080: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/write/biff/CompoundFile.java:1133: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/write/biff/CompoundFile.java:1135: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/write/biff/CompoundFile.java:1137: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (by repeated calls to the method): jxl/write/biff/ExtendedSSTRecord.java:80: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA (exception before): jxl/write/biff/ExtendedSSTRecord.java:82: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/ExtendedSSTRecord.java:101: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/ExtendedSSTRecord.java:105: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/ExternalNameRecord.java:62: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/ExternalNameRecord.java:63: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/ExternalNameRecord.java:67: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/ExternalNameRecord.java:68: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/ExternalNameRecord.java:69: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/ExternalNameRecord.java:70: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/FooterRecord.java:81: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/HeaderRecord.java:80: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:912: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:913: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:914: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:915: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:916: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:917: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: ??: jxl/write/biff/HyperlinkRecord.java:918: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:919: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:920: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:921: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:922: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:923: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:924: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:925: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:926: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:927: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1070: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1071: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1072: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1073: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1074: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1075: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1076: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1077: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1078: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1079: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1080: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1081: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1082: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1083: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1084: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1085: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1102: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1103: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1104: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1105: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1106: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1107: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1108: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1109: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1110: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1111: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1112: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1113: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1114: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1115: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1116: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1117: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1118: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1119: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1120: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1121: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1122: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1123: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1124: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1125: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1141: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/HyperlinkRecord.java:1142: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/MulRKRecord.java:72: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/MulRKRecord.java:73: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/MulRKRecord.java:96: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/NameRecord.java:177: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/NameRecord.java:346: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/NameRecord.java:351: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/NameRecord.java:355: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/NameRecord.java:371: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/NameRecord.java:386: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/NameRecord.java:393: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/NameRecord.java:398: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/NameRecord.java:403: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/NameRecord.java:406: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/NameRecord.java:481: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/NameRecord.java:485: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/NameRecord.java:487: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/NameRecord.java:509: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/NameRecord.java:512: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/NameRecord.java:515: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/write/biff/NameRecord.java:549: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/NameRecord.java:575: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/NameRecord.java:578: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/NameRecord.java:581: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/write/biff/NameRecord.java:615: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/NameRecord.java:642: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/NameRecord.java:646: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/ReadErrorFormulaRecord.java:123: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/ReadErrorFormulaRecord.java:124: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/ReadErrorFormulaRecord.java:125: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/ReadFormulaRecord.java:153: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/write/biff/ReadFormulaRecord.java:207: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/ReadStringFormulaRecord.java:105: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/ReadStringFormulaRecord.java:106: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/ReadStringFormulaRecord.java:107: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/RowRecord.java:247: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (col is arbitrary): jxl/write/biff/RowRecord.java:283: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/RowRecord.java:316: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/RowRecord.java:335: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/RowRecord.java:477: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/RowRecord.java:549: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/write/biff/RowRecord.java:587: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/write/biff/SSTContinueRecord.java:194: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (just after construction byteCount is 0): jxl/write/biff/SSTContinueRecord.java:200: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/SSTContinueRecord.java:217: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/SSTRecord.java:158: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/SheetWriter.java:463: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/write/biff/SheetWriter.java:477: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/write/biff/SheetWriter.java:1021: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/write/biff/SheetWriter.java:1037: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/SortRecord.java:94: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/SortRecord.java:96: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/SortRecord.java:97: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/SortRecord.java:98: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/SortRecord.java:100: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/SortRecord.java:105: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/SortRecord.java:111: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/StringRecord.java:57: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/SupbookRecord.java:145: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/SupbookRecord.java:200: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/SupbookRecord.java:217: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/SupbookRecord.java:218: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+??: jxl/write/biff/SupbookRecord.java:227: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA (s is arbitrary): jxl/write/biff/SupbookRecord.java:339: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (row is arbitrary): jxl/write/biff/WritableSheetImpl.java:410: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/WritableSheetImpl.java:412: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/WritableSheetImpl.java:647: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/WritableSheetImpl.java:734: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/WritableSheetImpl.java:851: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/WritableSheetImpl.java:1016: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/write/biff/WritableSheetImpl.java:1228: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/WritableSheetImpl.java:1233: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/WritableSheetImpl.java:1252: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/write/biff/WritableSheetImpl.java:1743: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/WritableSheetImpl.java:1744: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/write/biff/WritableSheetImpl.java:1818: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA (row1 == row2 == -2): jxl/write/biff/WritableSheetImpl.java:1921: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/WritableSheetImpl.java:2413: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/WritableSheetImpl.java:2561: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/WritableSheetImpl.java:2577: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/WritableSheetImpl.java:2649: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/write/biff/WritableSheetImpl.java:2741: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/WritableSheetImpl.java:2753: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+??: jxl/write/biff/WritableSheetImpl.java:2875: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/WritableWorkbookImpl.java:366: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/WritableWorkbookImpl.java:843: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+FA: jxl/write/biff/WritableWorkbookImpl.java:947: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/WritableWorkbookImpl.java:1530: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+FA: jxl/write/biff/WritableWorkbookImpl.java:1650: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
