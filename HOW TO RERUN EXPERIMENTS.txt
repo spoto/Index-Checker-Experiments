@@ -1,0 +1,18 @@
+Experiments can be rerun on the Julia cloud service:
+
+- connect to https://portal.juliasoft.com
+- create an account
+- download and install the Eclipse plugin as described at login time
+- click on the Eclipse project to analyze
+- click on the J icon for Julia in Eclipse
+- deselect all basic and advanced checkers
+- in the advanced checkers section, select Termination only
+- open the options for Termination: modify checkArrays to true, callContexts to false and podelskiRybalchenko to false
+- click to Finish and wait until the analysis completes
+- inspect the warnings in the Julia view in Eclipse
+
+The Julia cloud service is tuned with a slightly different configuration
+than what is described in the article, in order to bound the complexity of
+the analysis under a safe threshold and keep the server alive. In particular,
+the maximal size of zones is smaller than 200 and widening is applied earlier.
+Hence results will be slightly degrated wrt those described in the article.
