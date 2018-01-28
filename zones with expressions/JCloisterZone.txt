@@ -1,0 +1,90 @@
+com/jcloisterzone/ai/SavePointManager.java:55: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+com/jcloisterzone/ai/SavePointManager.java:70: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+com/jcloisterzone/ai/legacyplayer/LegacyAiPlayer.java:296: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+com/jcloisterzone/ai/legacyplayer/LegacyAiPlayer.java:298: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+com/jcloisterzone/ai/legacyplayer/LegacyAiScoreContext.java:71: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+com/jcloisterzone/board/EdgePattern.java:33: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+com/jcloisterzone/board/EdgePattern.java:52: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+com/jcloisterzone/board/EdgePattern.java:54: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+com/jcloisterzone/board/EdgePattern.java:61: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+com/jcloisterzone/board/EdgePattern.java:78: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+com/jcloisterzone/board/EdgePattern.java:90: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+com/jcloisterzone/board/EdgePattern.java:101: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+com/jcloisterzone/board/EdgePattern.java:112: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+com/jcloisterzone/board/EdgePattern.java:138: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+com/jcloisterzone/board/EdgePattern.java:139: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+com/jcloisterzone/board/EdgePattern.java:141: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+com/jcloisterzone/board/EdgePattern.java:142: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+com/jcloisterzone/board/LoadGameTilePackFactory.java:47: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+com/jcloisterzone/feature/Castle.java:23: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+com/jcloisterzone/feature/MultiTileFeature.java:55: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+com/jcloisterzone/feature/MultiTileFeature.java:59: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+com/jcloisterzone/feature/Road.java:53: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+com/jcloisterzone/feature/visitor/score/CityScoreContext.java:43: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/feature/visitor/score/CloisterScoreContext.java:74: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+com/jcloisterzone/feature/visitor/score/CloisterScoreContext.java:81: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/Game.java:170: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/BazaarCapability.java:43: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/BazaarCapability.java:44: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/BazaarCapability.java:45: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/BazaarCapability.java:46: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/BridgeCapability.java:43: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/BridgeCapability.java:45: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+com/jcloisterzone/game/capability/CastleCapability.java:158: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+com/jcloisterzone/game/capability/CastleCapability.java:159: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+com/jcloisterzone/game/capability/ClothWineGrainCapability.java:37: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/ClothWineGrainCapability.java:61: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/ClothWineGrainCapability.java:65: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/CornCircleCapability.java:38: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/CornCircleCapability.java:39: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/DragonCapability.java:58: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/DragonCapability.java:59: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/DragonCapability.java:60: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/DragonCapability.java:61: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/KingScoutCapability.java:40: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/KingScoutCapability.java:41: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/KingScoutCapability.java:42: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/KingScoutCapability.java:43: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/KingScoutCapability.java:44: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/KingScoutCapability.java:45: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/KingScoutCapability.java:46: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/TowerCapability.java:73: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/TowerCapability.java:75: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/TowerCapability.java:77: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/TowerCapability.java:78: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/TowerCapability.java:194: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/TunnelCapability.java:55: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/TunnelCapability.java:57: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/TunnelCapability.java:59: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/WagonCapability.java:63: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/WagonCapability.java:65: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+com/jcloisterzone/game/capability/WagonCapability.java:101: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/WindRoseCapability.java:53: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/capability/WindRoseCapability.java:54: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/phase/CastlePhase.java:72: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/phase/CreateGamePhase.java:80: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/phase/DrawPhase.java:81: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+com/jcloisterzone/game/phase/LoadGamePhase.java:37: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/game/phase/WagonPhase.java:66: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/server/Server.java:128: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/server/Server.java:139: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+TA com/jcloisterzone/server/Server.java:140: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+com/jcloisterzone/ui/Client.java:122: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/ui/Client.java:551: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/ui/Client.java:555: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+com/jcloisterzone/ui/Client.java:563: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+com/jcloisterzone/ui/controls/ActionPanel.java:93: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+com/jcloisterzone/ui/controls/ActionPanel.java:96: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+com/jcloisterzone/ui/controls/ActionPanel.java:130: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+com/jcloisterzone/ui/controls/ActionPanel.java:138: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/ui/controls/ActionPanel.java:143: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+com/jcloisterzone/ui/controls/ActionPanel.java:173: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+com/jcloisterzone/ui/controls/ControlPanel.java:132: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+com/jcloisterzone/ui/controls/ControlPanel.java:162: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+com/jcloisterzone/ui/controls/ControlPanel.java:242: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
+com/jcloisterzone/ui/panel/CreateGamePanel.java:193: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/ui/theme/FeatureDescriptor.java:43: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/ui/theme/SvgToShapeConverter.java:57: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/ui/theme/SvgTransformationCollector.java:55: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+TA com/jcloisterzone/ui/theme/ThemeGeometry.java:82: [Termination: ArrayReadOutOfBoundsWarning - CWE125] This array read seems to occur out of the bounds of the array
+com/jcloisterzone/ui/theme/ThemeGeometry.java:137: [Termination: ArrayWriteOutOfBoundsWarning - CWE787] This array write seems to occur out of the bounds of the array
